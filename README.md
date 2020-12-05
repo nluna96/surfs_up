@@ -15,7 +15,7 @@ The purpose of this analysis is to get as much information about temperature tre
 - June(64) and December(56) have a large difference in min temperatures.
 
 ## Summary
-The results above show that June and December have approximately similar temperatures throughout the year, however, it's important to note that there is a large difference in min temperatures. This large difference in min temperatures led to a deeper investigation where a few outliers for both June and December data sets were discovered. The outliers can be seen in the boxplot below.
+The results above show that June and December have approximately similar temperatures throughout the year, however, it's important to note that there is a large difference in min temperatures. This large difference in min temperatures led to a deeper investigation where a few outliers for both June and December datasets were discovered. The outliers can be seen in the boxplot below.
 
 ### June and December Boxplot with outliers
 ![June and December Temps](/June_December_Boxplots.png)
@@ -30,7 +30,7 @@ Once the outliers were removed from both June and December datasets new similari
 
 - June(74.9) and December(71.1) continue to have similar mean temperatures.
 - June(83) and December(81) max temperatures both decreased but they continue to be about similar temperatures.
-- June(67) and December(62) min temperatures both increased and now how a smaller difference between each other.
+- June(67) and December(62) min temperatures both increased and now show a smaller difference between each other.
 
 ### June and December Boxplot Updated
 ![June and December Temps Updated](/June_December_Boxplots_updated.png)
