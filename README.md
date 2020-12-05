@@ -35,4 +35,4 @@ Once the outliers were removed from both June and December datasets new similari
 ### June and December Boxplot Updated
 ![June and December Temps Updated](/June_December_Boxplots_updated.png)
 
-By removing the outliers from both June and December datasets, the data became more similar than first expected. There are minor fluctuations between the min and max temperatures however, the mean temperatures are similar. This reinforces that the surf and ice cream shop business is sustainable year-round.
+By removing the outliers from both June and December datasets, the data became much more similar. There are minor fluctuations between the min and max temperatures however, the mean temperatures are similar. This reinforces that the surf and ice cream shop business is sustainable year-round.
