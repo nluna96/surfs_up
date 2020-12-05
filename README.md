@@ -16,10 +16,12 @@ The purpose of this analysis is to get as much information about temperature tre
 
 ## Summary
 
-The results above show that June and December have approximatly similar temperatures throughout the year, however its important to note that there is a large difference in min temperatures. This large difference led to deeper investigation, which ended 
+The results above show that June and December have approximatly similar temperatures throughout the year, however its important to note that there is a large difference in min temperatures. This large difference led to deeper investigation, which ended finding there was a few outliers for both June and December data sets. The outliers can be seen in the boxplot below.
 
 ### June and December Boxplot with outliers
 ![June and December Temps](/June_December_Boxplots.png)
+
+
 
 ### June and December Boxplot Updated
 ![June and December Temps Updated](/June_December_Boxplots_updated.png)
